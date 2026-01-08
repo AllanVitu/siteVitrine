@@ -182,8 +182,7 @@ main {
       rgba(255, 255, 255, 0.92) 0%,
       rgba(243, 235, 222, 0.85) 45%,
       rgba(226, 241, 229, 0.85) 100%
-    ),
-    url("imgs/hero-mountains.jpg");
+    );
   background-size: cover;
   background-position: center;
   border: 1px solid var(--glass-border);
@@ -522,7 +521,7 @@ main {
       rgba(31, 42, 34, 0.2),
       rgba(82, 109, 88, 0.25)
     ),
-    url("https://github.com/AllanVitu/siteVitrine/blob/main/docs/assets/imgs/imgCardOne.jpg");
+    url("imgs/imgCardOne.jpg");
 }
 
 .project-thumb--mobile {
