@@ -526,7 +526,7 @@ main {
 
 .project-thumb--mobile {
   background-image: linear-gradient(
-    135deg,
+    150deg,
     rgba(241, 234, 222, 0.85),
     rgba(214, 231, 214, 0.75),
     rgba(195, 219, 200, 0.8)
@@ -536,7 +536,7 @@ main {
 
 .project-thumb--startup {
   background-image: linear-gradient(
-    135deg,
+    150deg,
     rgba(236, 229, 216, 0.85),
     rgba(205, 224, 205, 0.75) 55%,
     rgba(184, 210, 191, 0.75)
